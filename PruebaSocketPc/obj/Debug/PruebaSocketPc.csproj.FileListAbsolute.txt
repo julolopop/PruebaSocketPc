@@ -1,0 +1,7 @@
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\bin\Debug\PruebaSocketPc.exe.config
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\bin\Debug\PruebaSocketPc.exe
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\bin\Debug\PruebaSocketPc.pdb
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\obj\Debug\PruebaSocketPc.csprojResolveAssemblyReference.cache
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\obj\Debug\PruebaSocketPc.csproj.CoreCompileInputs.cache
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\obj\Debug\PruebaSocketPc.exe
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaSocketPc\obj\Debug\PruebaSocketPc.pdb

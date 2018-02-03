@@ -1,0 +1,6 @@
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\bin\Debug\PruebaServidor.exe.config
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\bin\Debug\PruebaServidor.exe
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\bin\Debug\PruebaServidor.pdb
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\obj\Debug\PruebaServidor.csproj.CoreCompileInputs.cache
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\obj\Debug\PruebaServidor.exe
+C:\Users\Julolopop\Desktop\PruebaSocketPc\PruebaServidor\obj\Debug\PruebaServidor.pdb
